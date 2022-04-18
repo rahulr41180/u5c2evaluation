@@ -87,17 +87,6 @@
       "tenth_score": 43,
       "twelth_score": 74,
       "preferred_branch": "commerce"
-    },
-    {
-      "first_name": "Rahul",
-      "last_name": "Rathor",
-      "email": "www.rahulr41180@gmail.com",
-      "gender": "male",
-      "age": "24",
-      "tenth_score": "77",
-      "twelth_score": "72",
-      "preferred_branch": "science",
-      "id": 9
     }
   ]
 }
